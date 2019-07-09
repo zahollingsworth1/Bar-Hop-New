@@ -1,0 +1,17 @@
+@media screen and (min-width: 450px) {
+  .phone{
+    display:none;
+  }
+  .desktop{
+    width:100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .phone{
+    width: 100%
+  }
+  .desktop{
+    display:none;
+  }
+}
+ 
